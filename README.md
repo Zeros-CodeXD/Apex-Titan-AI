@@ -1,7 +1,7 @@
 # 🦅 APEX TITAN: Privacy-First AI Financial Terminal
 
 <!-- UPLOAD A SCREENSHOT OF THE DASHBOARD HERE -->
-![Apex Titan Dashboard](<img width="1363" height="712" alt="Screenshot 2026-01-15 004449" src="https://github.com/user-attachments/assets/78716c06-9597-4001-b19f-18735e1aef54" />)
+![Apex Titan Dashboard](https://github.com/209567/Apex-Titan-AI/blob/main/Screenshot%202026-01-15%20004449.png)
 
 **Apex Titan** is a professional-grade desktop financial terminal built to solve the privacy crisis in trading tools. Unlike web apps that track your data, Apex runs **100% Locally** using quantized Large Language Models (LLMs).
 
