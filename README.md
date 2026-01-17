@@ -1,5 +1,4 @@
-# 🦅 A Privacy-First Financial Analysis Terminal. (Not related to the video game Apex Legends).
-
+# 🦅 A Privacy-First Financial Analysis Terminal.
 <!-- UPLOAD A SCREENSHOT OF THE DASHBOARD HERE -->
 ![Apex Titan Dashboard](https://github.com/Zeros-CodeXD/Apex-Titan-AI/blob/main/dashboard.png)
 
@@ -58,4 +57,4 @@ Built-in calculator that adjusts position sizing based on account balance and st
 
 ## 🔐 Demo License Key:
 To test the application, use the developer key: TITAN-KEY-2025
-Note: the license key is hardcoded as TITAN-KEY-2025 for easy testing.
+Demo Access: Use the developer key TITAN-KEY-2025 to unlock the full terminal features for evaluation.
