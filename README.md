@@ -36,5 +36,10 @@ Built-in calculator that adjusts position sizing based on account balance and st
    ```bash
    git clone https://github.com/209567/Apex-Titan-AI.git
    cd Apex-Titan-AI
+   ```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2F209567%2FApex-Titan-AI)]
+
+2. **Install Dependencies (CRITICAL)**
+   ```bash
+   pip install -r requirements.txt
 ## 🔐 Demo License Key:
 To test the application, use the developer key: TITAN-KEY-2025
